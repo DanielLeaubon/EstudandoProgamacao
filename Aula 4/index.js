@@ -4,3 +4,4 @@ const cauvan = {
     medo: 'JP',
     moradia: 'Kauvord'
 }
+console.log(123);
